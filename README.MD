@@ -9,4 +9,4 @@ This demo is only used to check your local environment for our Workshop.
 ```commandline
 gradle bootRun
 ```
-* Check web page on `http://localhost:8080`. You environment should be Ready if the page is displayed well.
+* Check web page on `http://localhost:8080`. Your environment should be Ready if the page is displayed well.
